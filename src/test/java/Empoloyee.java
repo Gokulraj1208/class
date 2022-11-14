@@ -18,5 +18,8 @@ public class Empoloyee {
 	public void A6() {
 		System.out.println("F");
 	}
+	public void A8() {
+		System.out.println("H");
 
+}
 }
