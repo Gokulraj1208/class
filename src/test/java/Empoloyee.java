@@ -9,5 +9,14 @@ public class Empoloyee {
 	public void A3() {
 		System.out.println("C");
 	}
+	public void A4() {
+		System.out.println("D");
+	}
+	public void A5() {
+		System.out.println("E");
+	}
+	public void A6() {
+		System.out.println("F");
+	}
 
 }
